@@ -33,16 +33,10 @@ pip install textblob streamlit
 ## Java/Spring Boot Setup
 Navigate to the Spring Boot application directory and run:
 
+
 mvn clean install
 
 
-
-Creating a README for your GitHub project is a great way to explain and showcase your application. Below is a template for a README file for your "Sentiment Analysis of Comments" project. Feel free to modify it according to the specifics of your project.
-
-
-# Sentiment Analysis of Comments
-
-This project, "Sentiment Analysis of Comments," combines the power of Spring Boot and Python to analyze sentiments in Facebook comments. It uses the Facebook Graph API to fetch comments, TextBlob in Python for sentiment analysis, and Streamlit for the frontend.
 
 ## Features
 
