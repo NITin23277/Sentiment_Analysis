@@ -63,17 +63,19 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```sh
-   git clone [URL of your repository]
+   git clone https://github.com/NITin23277/Sentiment_Analysis/
    cd sentimentAnalysisofcomments
 
    
 2 **Python Dependencies**
 Install the required Python packages including TextBlob and Streamlit:
+```sh
 pip install textblob streamlit
 
 
 3 **Java/Spring Boot Setup**
 Navigate to the Spring Boot application directory and run:
+```sh
 mvn clean install
 
 
@@ -83,6 +85,7 @@ Run your Spring Boot application through your preferred IDE or via command line.
 
 ## Run Streamlit Frontend
 Navigate to the directory containing the Streamlit app and run:
+```sh
 streamlit run [filename].py
 
 ## Facebook Graph API
