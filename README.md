@@ -97,8 +97,8 @@ PostMan is use for testing the Api
 
 
 ## Screenshots
-![Screenshot 1](https://github.com/NITin23277/Sentiment_Analysis/images/s5.png)
-![Screenshot 2](https://github.com/NITin23277/Sentiment_Analysis/images/s4.png)
-![Screenshot 3](https://github.com/NITin23277/Sentiment_Analysis/images/s3.png)
-![Screenshot 4](https://github.com/NITin23277/Sentiment_Analysis/images/s2.png)
-![Screenshot 5](https://github.com/NITin23277/Sentiment_Analysis/images/s1.png)
+![Screenshot 1](https://github.com/NITin23277/Sentiment_Analysis/blob/main/images/s5.png)
+![Screenshot 2](https://github.com/NITin23277/Sentiment_Analysis/blob/main/images/s4.png)
+![Screenshot 3](https://github.com/NITin23277/Sentiment_Analysis/blob/main/images/s3.png)
+![Screenshot 4](https://github.com/NITin23277/Sentiment_Analysis/blob/main/images/s2.png)
+![Screenshot 5](https://github.com/NITin23277/Sentiment_Analysis/blob/main/images/s1.png)
