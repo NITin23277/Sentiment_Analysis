@@ -84,7 +84,7 @@ Run your Spring Boot application through your preferred IDE or via command line.
 ## Run Streamlit Frontend
 Navigate to the directory containing the Streamlit app and run:
 
-streamlit run [filename].py
+streamlit run frontend4.py
 
 ## Facebook Graph API
 Generate an access token for the Facebook page using the Meta Developer site.
