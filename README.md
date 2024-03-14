@@ -39,8 +39,7 @@ mvn clean install
 
 Creating a README for your GitHub project is a great way to explain and showcase your application. Below is a template for a README file for your "Sentiment Analysis of Comments" project. Feel free to modify it according to the specifics of your project.
 
-markdown
-Copy code
+
 # Sentiment Analysis of Comments
 
 This project, "Sentiment Analysis of Comments," combines the power of Spring Boot and Python to analyze sentiments in Facebook comments. It uses the Facebook Graph API to fetch comments, TextBlob in Python for sentiment analysis, and Streamlit for the frontend.
@@ -62,20 +61,19 @@ Before running the project, ensure you have the following installed:
 ## Installation
 
 1. **Clone the Repository**
-   ```sh
+   
    git clone https://github.com/NITin23277/Sentiment_Analysis/
    cd sentimentAnalysisofcomments
 
    
 2 **Python Dependencies**
 Install the required Python packages including TextBlob and Streamlit:
-```sh
+
 pip install textblob streamlit
 
-
-3 **Java/Spring Boot Setup**
+3 **Java Spring Boot Setup**
 Navigate to the Spring Boot application directory and run:
-```sh
+
 mvn clean install
 
 
@@ -85,7 +83,7 @@ Run your Spring Boot application through your preferred IDE or via command line.
 
 ## Run Streamlit Frontend
 Navigate to the directory containing the Streamlit app and run:
-```sh
+
 streamlit run [filename].py
 
 ## Facebook Graph API
